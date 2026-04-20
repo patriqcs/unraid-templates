@@ -1,7 +1,7 @@
 # patriqcs Unraid Community Applications Templates
 
 XML templates for applications published to the
-[Unraid Community Applications](https://forums.unraid.net/category/38-community-applications/) store.
+[Unraid Community Applications] store.
 
 Each `.xml` here is a standalone Docker-container template. The container
 source code lives in a separate repository linked from each template's
