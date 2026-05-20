@@ -1,0 +1,22 @@
+<CommunityApplications>
+  <Profile>
+This repository hosts the Unraid Community Applications template for
+**MOSBot** — a headless Twitch bot that automatically participates in
+*Marbles On Stream* lobbies across many live channels, with a web
+dashboard for monitoring and control.
+
+Designed to run as a single container on Unraid, alongside (not
+instead of) the Channel-Points Miner.
+
+- **Source code:** https://github.com/patriqcs/mosbot
+- **Container image:** `ghcr.io/patriqcs/mosbot:latest`
+- **Support:** https://forums.unraid.net/topic/198953-support-mosbot-marbles-on-stream-auto-play-twitch-bot-with-web-dashboard/
+
+For bug reports and feature requests, please open a GitHub issue at
+https://github.com/patriqcs/mosbot/issues. For installation and
+configuration help, use the Unraid forum support thread linked above.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/patriqcs/unraid-templates/main/mosbot-icon.png</Icon>
+  <WebPage>https://github.com/patriqcs/unraid-templates</WebPage>
+  <Forum>https://forums.unraid.net/topic/198953-support-mosbot-marbles-on-stream-auto-play-twitch-bot-with-web-dashboard/</Forum>
+</CommunityApplications>
